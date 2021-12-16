@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodeMonoCode
-- 👀 I’m interested in teaching people how to program
-- 🌱 I currently create tutorials at https://codemono.com
+- 👀 I teach people how to code
+- 🌱 Am currently located at https://codemono.com
 - 📫 How to reach me: info@codemono.com
 
 <!---
